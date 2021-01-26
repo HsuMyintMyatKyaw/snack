@@ -59,6 +59,7 @@
 
 	            <div class="col-md-12 ftco-animate text-center">
 	              <h1 class="mb-2">We serve High Quality Snacks &amp; Drinks</h1>
+                <h3>git prictise</h3>
 	              <h2 class="subheading mb-4">We deliver only fresh food.</h2>
 	              <p><a href="{{ url("/items/product") }}" class="btn btn-primary">View Details</a></p>
 	            </div>
